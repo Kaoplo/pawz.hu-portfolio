@@ -1,6 +1,6 @@
 <header>
     <h1>
-        pawz.hu uwu
+        pawz.hu
     </h1>
     <p>
         Welcome to pawz.hu, a website created by Kaoplo, a furry from Hungary currently living in the Netherlands<br>
