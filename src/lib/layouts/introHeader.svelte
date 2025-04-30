@@ -10,16 +10,13 @@
 
 <style lang="scss" global>
     header {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        height: 100%;
         color: white;
-        text-align: center;
+        padding: 1rem;
+        background-color: rgb(48, 48, 48);
     }
     h1 {
         font-size: 3rem;
+        text-align: center;
     }
     p {
         font-size: 1.5rem;
