@@ -1,5 +1,6 @@
 <script lang="ts">
     import IntroHeader from "$lib/layouts/introHeader.svelte";
+    import Socials from "$lib/layouts/Socials.svelte";
 </script>
 
 <svelte:head>
@@ -10,6 +11,7 @@
 <section class="home">
     <div class="wrapper">
         <IntroHeader/> 
+        <Socials/>
     </div>
 </section>
 
@@ -32,6 +34,8 @@
         height: 100%;
         width: 60%;
         border: 5px solid white;
+        background-color: rgb(48, 48, 48);
+        padding: 1rem;
     }
     @media (orientation: portrait) {
         .wrapper {
