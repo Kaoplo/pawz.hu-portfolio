@@ -17,7 +17,7 @@
 
 <style lang="scss" global>
     :global(html), :global(body) {
-        background-image: url(river.gif);
+        background-image: url('/river.gif');
         background-size:cover;
         background-repeat: no-repeat;
         margin: 0;
